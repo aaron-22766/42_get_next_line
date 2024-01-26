@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-	<b>Reading a line on a fd is way too tedious</b><br><br>
+	<b><i>Reading a line on a fd is way too tedious</i></b><br><br>
   This project is about programming a function that returns<br>
   a line read from a file descriptor<br>
 </p>
@@ -22,14 +22,9 @@
 
 ## 🗣 About
 
-> May it be a file, stdin, or even later a network connection, you will always need a way to read content line by line. It is time to start working on this function, which will be essential for your future projects. This project will not only allow you to add a very convenient function to your collection,
+May it be a file, stdin, or even later a network connection, you will always need a way to read content line by line. It is time to start working on this function, which will be essential for your future projects. This project will not only allow you to add a very convenient function to your collection,
 but it will also make you learn a highly interesting new concept in C programming: static variables.
 variables.
->
-> Skills:
-> * Unix
-> * Algorithms & AI
-> * Rigor
 
 ## 🛠️ Usage
 
